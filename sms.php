@@ -1,10 +1,10 @@
 <?php
         $fields_string  =   "";
         $fields     =   array(
-                            'api_key'       =>  '9de7b24n',
-                            'api_secret'    =>  '1135c4afaafeac30',
-                            'to'            =>  '+6289699935552',
-                            'from'          =>  "Nuris Akbar",
+                            'api_key'       =>  '***********',
+                            'api_secret'    =>  '***********',
+                            'to'            =>  '+628123456789',
+                            'from'          =>  "RayOcta",
                             'text'          =>  "Testing SMS Dari Nexmo"
         );
         $url        =   "https://rest.nexmo.com/sms/json";
